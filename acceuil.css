@@ -1,0 +1,20 @@
+
+
+h1 {
+    background-color: #000000;
+    color: #d9bc2e;
+}
+
+body {
+    background-image:url("image1.jpg");
+}
+
+.lien {
+    border-radius: 30px;
+    background-color: #808080;
+    margin-top: 1%;
+}
+
+.button3 {
+    color: #d9bc2e
+}

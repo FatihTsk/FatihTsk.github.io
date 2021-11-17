@@ -1,0 +1,36 @@
+
+
+h1 {
+    background-color: #000000;
+    color: #d9bc2e;
+}
+h2 {
+    text-shadow: 1px 2px 2px #J4A4A4;
+}
+body {
+    background: #d9bc2e;
+}
+
+.lien {
+    border-radius: 30px;
+    background-color: #808080;
+    margin-top: 1%;
+}
+
+.button3 {
+    color: #d9bc2e
+}
+body {
+    background-image: url("image2jpg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#tel {
+    height: 250px;
+    width: 250px;
+    font-size: 250px;
+}
+.telm {
+    font-size: 200px;
+    color: #808080
+}

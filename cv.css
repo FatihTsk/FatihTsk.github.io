@@ -1,0 +1,41 @@
+header {
+	color: #d9bc2e;
+	background-color: black;
+	width: 100%;
+}
+a {color:#d9bc2e}
+body{
+	background: #d9bc2e;
+}
+
+.Ok {
+	background-color: #FFFFFF;
+	margin-right: 1%;
+	margin-top: 1%;
+	border-radius: 30px;
+	margin-left: 5%;
+}
+
+
+
+h2{font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 24px;
+	letter-spacing: 6px;
+	word-spacing: 6px;
+	color: #000000;
+	font-weight: 700;
+	text-decoration: underline solid rgb(68, 68, 68);
+	font-style: italic;
+	font-variant: small-caps;
+	text-transform: capitalize;
+}
+
+.lien {
+	border-radius: 30px;
+	background-color: #808080;
+	margin-top: 1%;
+}
+
+.button3 {
+	color: #d9bc2e
+}

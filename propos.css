@@ -1,0 +1,19 @@
+
+body {
+    background-image: url(teste1234.jpg);
+    color: #d9bc2e;
+}
+h1 {
+    background-color: #000000;
+    color: #d9bc2e;
+}
+
+.lien {
+    border-radius: 30px;
+    background-color: #808080;
+    margin-top: 1%;
+}
+
+.button3 {
+    color: #d9bc2e
+}
